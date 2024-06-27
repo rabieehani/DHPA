@@ -20,8 +20,8 @@ Enter the desired values in each entry.
 Preferential Attachment model
 
 ## Model authors
-Hani Rabiee
-Behrouz Tork Ladani
+Hani Rabiee, 
+Behrouz Tork Ladani, 
 Ebrahim Sahafizadeh
 
 ## Article
