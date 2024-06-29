@@ -1,0 +1,62 @@
+"export-plots data (NetLogo 6.3.0)"
+"DHPA_revise-exports-0407-Boycott.nlogo"
+"06/29/2024 21:33:31:317 +0430"
+
+"MODEL SETTINGS"
+"in-degree-constant","follow-prob","change-state","ticks-number","noisy-user-smartness","path-length?","positive-noisy-user-rate","range-of-awareness","layout?","add-followee-prob","situation-after-crisis","export-frames-gexf?","export-frames-csv?","number-of-users","bot-attachment-type","add-follower-prob","noisy-user-rate-on-each-side","change-state?","positive-opinion-rate","encouraged-positive-users","sigmoid-slope","add-noisy-users-at-last?","negative-noisy-user-rate","export-world?","attitude-of-positive-bots","willingness-to-self-censor-initial-distribution","export-dynamic-data?","max-avg-degree-distribution","opinion-dynamics?","noisy-user-rate-on-each-side?","clustering-coefficient?","resize-users?","target-of-awareness","x","plot?","attitude-valence-initial-distribution","bot-follow-coefficient","encourage-to-leave?","crisis-in-middle","attitude-of-negative-bots","unfollow-prob","society-situation","layout-chooser","attitude-confidence-initial-distribution","awareness-counter","awareness?"
+"1","60","500","3500","1","false","0","0.2","false","17","""crisis""","true","false","1000","""DHPA""","17","0","true","50","40","0.01","false","0","true","1","""uniform""","true","1000000","true","false","false","false","0.8","3","false","""uniform""","1","true","false","-1","6","""normal""","""FruchtermanReingold""","""uniform""","500","false"
+
+"""Degree Distribution"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","10","0","10","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","1","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
+"""Degree Distribution (log-log)"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","0.3","0","0.3","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","2","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
+"""In Degree Distribution"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","10","0","10","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","1","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
+"""In Degree Distribution (log-log)"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","0.3","0","0.3","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","2","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
+"""Out Degree Distribution"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","10","0","10","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","1","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
+"""Out Degree Distribution (log-log)"""
+"x min","x max","y min","y max","autoplot?","current pen","legend open?","number of pens"
+"0","0.3","0","0.3","true","""default""","false","1"
+
+"pen name","pen down?","mode","interval","color","x"
+"""default""","true","2","1","0","0"
+
+"""default"""
+"x","y","color","pen down?"
