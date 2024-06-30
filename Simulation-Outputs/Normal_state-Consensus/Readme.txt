@@ -1,3 +1,6 @@
-The network dynamics files include a node set file, an edge set file, and a combined file for each time step. These files can be visualized using tools like Gephi and Cytoscape. The node and edge files contain all nodes and edges, but to analyze public opinion, you should filter nodes with an opinion expression status equal to 1.
+This experiment demonstrates how public opinion reaches a consensus in a normal state without the presence of noisy users. Consensus is achieved when the majority of individuals expressing an opinion share a similar viewpoint.
 
-The files related to the final state of the simulation, where public opinion reaches a consensus, include two network files in .gephi format. One file represents the state considering all users, while the other represents only the users who express opinion. The visualization of these two situations are also in the form of PNG files.
+The interface file is an image of the simulation input parameters during initial setup.
+
+Here we have two directories, one containing files related to the final state of the simulation and the other containing files related to the dynamics of the network during the simulation time.
+
