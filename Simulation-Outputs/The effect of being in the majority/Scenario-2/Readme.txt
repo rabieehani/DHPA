@@ -1,1 +1,3 @@
+In this scenario, two attitudinal groups have the same members from the beginning, but in the middle of the simulation, 40% of the users of one of the groups leave the network for a reason such as boycotting the social network, and in fact, their user account becomes silent. It can be seen that in the end, this action of theirs ends up being detrimental to them and public opinion is formed in favor of the other side.
 
+Here we have three directories, one containing files related to the middle state of the simulation when the network has 500 users, te other containing files related to the final state of the simulation when the network has 1000 users, and the other containing files related to the dynamics of the network during the simulation time.
